@@ -5,11 +5,7 @@ This organization contains the front-end and back-end projects for the LiveTune 
 
 ![mainPageDemo](https://github.com/user-attachments/assets/21b49082-bbd2-4722-bf98-1797f0cc3156)
 
-## 📖 About
-
-This repository handles all front-end development for the LiveTune platform.
-
-### 🎧 What is LiveTune?
+# 🎧 What is LiveTune?
 
 **LiveTune** is a web application that lets you **listen to music in real time together with your friends**, no matter where they are. Think of it as a virtual room where music plays **in perfect sync** for all participants — just like being in the same space.
 
