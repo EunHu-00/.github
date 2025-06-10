@@ -22,7 +22,7 @@ Whether you're hanging out, studying, or just vibing, LiveTune ensures that ever
 
 ![image](https://github.com/user-attachments/assets/437e8914-60a9-4c96-ac49-4b99a5c3aeda)
 - You can enter youtube id, click Add button the add song.
-    - You can get youtube video id from [here](https://commentpicker.com/youtube-video-id.php#:~:text=A%20YouTube%20video%20ID%20is%20a%20unique%20identifier,enables%20seamless%20embedding%20of%20YouTube%20videos%20onto%20websites.) 
+    - You can get the YouTube video ID from [this link](https://commentpicker.com/youtube-video-id.php#:~:text=A%20YouTube%20video%20ID%20is%20a%20unique%20identifier,enables%20seamless%20embedding%20of%20YouTube%20videos%20onto%20websites.).
 - Click Load it up to bring predefined example song list.
 - Click **Skip button** to load the song from the queue
 - Click Play button to play the song
