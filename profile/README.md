@@ -30,6 +30,6 @@ Whether you're hanging out, studying, or just vibing, LiveTune ensures that ever
 - Click Request sync to match everyone's timestamp same to the host's
 - Send Message button currently has no use for now.
 - If you click Ping button repeatedly, you have a chance to get better synced timestamp :)
-- 
+  
 ![image](https://github.com/user-attachments/assets/52d3983c-a1b1-4b27-9a0b-9b43d510c51d)
 - If you joined to the room that was created by others, you have to click 'Request sync' to match your timestamp with the host.
